@@ -18,6 +18,11 @@ header {
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
+    text-decoration:none;
+    color:#000;
+}
+.header-container a:nth-child(1) {
+    color:#34547A;
 }
 .header-container {
     display:flex;
